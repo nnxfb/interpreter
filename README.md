@@ -1,4 +1,4 @@
-# Simple Expression Parser and Calculator in C
+# Simple Interpreter in C
 
 A lightweight expression parser and calculator implemented in C, supporting basic arithmetic operations, variable assignments, and bracket prioritization.
 
